@@ -27,7 +27,7 @@ jobs:
         uses: pulumi/actions@v5
         with:
           command: up
-          stack-name: rollerf/cicd-workshop/test
+          stack-name: Rollerf/live-workshop/dev
           work-dir: .
         env:
           PULUMI_ACCESS_TOKEN: ${{ secrets.PULUMI_ACCESS_TOKEN }}
