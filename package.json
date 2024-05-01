@@ -1,0 +1,12 @@
+{
+    "name": "live-workshop",
+    "devDependencies": {
+        "@types/node": "^18"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^6.0.2",
+        "@pulumi/synced-folder": "^0.0.9",
+        "@pulumi/pulumi": "^3.113.0",
+        "typescript": "^5.0.0"
+    }
+}

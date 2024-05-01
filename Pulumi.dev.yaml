@@ -1,0 +1,5 @@
+config:
+  aws:region: eu-west-3
+  live-workshop:errorDocument: error.html
+  live-workshop:indexDocument: index.html
+  live-workshop:path: ./www
